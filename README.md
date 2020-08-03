@@ -1,3 +1,3 @@
 # test
 Test git commands
-Added Github..
+Added Github
